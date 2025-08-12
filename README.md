@@ -1,14 +1,14 @@
-# Projet de Prédiction du Taux d'Attrition des Employés
+# 🧠 Projet de Prédiction du Taux d'Attrition des Employés
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange) ![Licence: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Issues GitHub](https://img.shields.io/github/issues/VOTRE_NOM_UTILISATEUR/VOTRE_REPO) ![Étoiles GitHub](https://img.shields.io/github/stars/VOTRE_NOM_UTILISATEUR/VOTRE_REPO)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange) ![Licence: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Issues GitHub](https://img.shields.io/github/issues/Schadrac237/Projet-ML-pr-diction) ![Étoiles GitHub](https://img.shields.io/github/stars/Schadrac237/Projet-ML-pr-diction)
 
-## Présentation du Projet
+## 📌 Présentation du Projet
 
 Ce projet a été réalisé dans le cadre d’un travail de groupe académique portant sur l’application des techniques de machine learning pour prédire le taux d’attrition des employés au sein d’une entreprise. La prédiction de l’attrition est une problématique clé en gestion des ressources humaines, car elle permet aux entreprises d’anticiper les départs potentiels, d’améliorer les stratégies de rétention et d’optimiser la planification des effectifs.
 
 Le jeu de données fourni comprend diverses caractéristiques relatives aux employés, qui ont été utilisées pour entraîner des modèles prédictifs capables d’identifier les collaborateurs susceptibles de quitter l’entreprise. L’objectif principal était de construire, d’évaluer et de comparer plusieurs modèles de classification afin de sélectionner celui offrant la meilleure performance pour la prédiction.
 
-## Objectifs
+## 🎯 Objectifs
 
 Les objectifs principaux du projet étaient les suivants :
 
@@ -19,7 +19,7 @@ Les objectifs principaux du projet étaient les suivants :
 - Explorer des pistes d’amélioration pour les modèles moins performants via l’ingénierie des caractéristiques ou l’optimisation des hyperparamètres.
 - Fournir des recommandations exploitables pour faciliter la prise de décision RH à partir des prédictions générées.
 
-## Méthodologie et Approche
+## 🧭 Méthodologie et Approche
 
 Le déroulement du projet s’est articulé autour des étapes suivantes :
 
@@ -41,7 +41,7 @@ Le déroulement du projet s’est articulé autour des étapes suivantes :
 6. **Contribution et Collaboration :**  
    Ce projet a été réalisé en équipe. Mes contributions ont inclus l’entraînement et l’évaluation d’un modèle de machine learning, le nettoyage des données, ainsi que la gestion de la séparation des données en ensembles d’entraînement et de test. Une collaboration régulière a permis d’assurer la cohérence et d’optimiser les résultats.
 
-## Technologies Utilisées
+## 🛠️ Technologies Utilisées
 
 Le projet a utilisé les outils et bibliothèques suivants :
 
@@ -52,7 +52,7 @@ Le projet a utilisé les outils et bibliothèques suivants :
 - matplotlib pour la visualisation des données et des résultats.
 - scikit-learn pour la construction, l’entraînement et l’évaluation des modèles de machine learning.
 
-## Résultats
+## 📊 Résultats
 
 | Modèle             | Précision | Rappel | Score F1 | AUC    |
 |--------------------|-----------|--------|----------|--------|
@@ -65,7 +65,7 @@ Le projet a utilisé les outils et bibliothèques suivants :
 
 Les modèles Random Forest et Decision Tree ont démontré une excellente précision prédictive, avec des scores AUC et F1 proches de la perfection, confirmant leur pertinence pour la tâche de prédiction d’attrition. Les modèles plus simples tels que le Perceptron ont des performances limitées, suggérant la nécessité d’optimisations supplémentaires.
 
-## Utilisation du Dépôt
+## ⚙️ Utilisation du Dépôt
 
 Ce dépôt contient l’ensemble du code source, incluant les étapes de prétraitement, les scripts d’entraînement et d’évaluation des modèles. Le jeu de données original est privé et n’est pas inclus pour des raisons de confidentialité.
 
